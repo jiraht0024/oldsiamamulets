@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1783945931456,
+    "name": "lp ngern",
+    "description": "lp ngern",
+    "price": "499",
+    "image": "/amulet_1783945931455.png",
+    "hasCertificate": true,
+    "shippingType": "Free Int. Shipping"
+  },
+  {
+    "id": 1,
+    "name": "Phra Somdej Wat Rakhang",
+    "description": "Beautiful texture, highly sacred, certified authentic.",
+    "price": "299.99",
+    "image": "/somdej.png",
+    "hasCertificate": true,
+    "shippingType": "Free Int. Shipping"
+  },
+  {
+    "id": 2,
+    "name": "Phra Pidta Luang Pu Toh",
+    "description": "Excellent condition, famous for protection and wealth.",
+    "price": "24.99",
+    "image": "",
+    "hasCertificate": false,
+    "shippingType": "Global Shipping"
+  },
+  {
+    "id": 3,
+    "name": "Erawan Three-Headed Elephant Coin",
+    "description": "Rare vintage Thai collectible coin, high historical value.",
+    "price": "149.99",
+    "image": "",
+    "hasCertificate": true,
+    "shippingType": "Free Int. Shipping"
+  }
+]
