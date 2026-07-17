@@ -1,0 +1,17 @@
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="th">
+      <head>
+        <link rel="preconnect" href="https://app.snipcart.com" />
+        <link rel="preconnect" href="https://cdn.snipcart.com" />
+        <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.4.0/default/snipcart.css" />
+      </head>
+      <body>
+        {children}
+        <script async src="https://cdn.snipcart.com/themes/v3.4.0/default/snipcart.js"></script>
+        <div hidden id="snipcart" data-api-key="ZTQzM2NlM2QtMWYzMy00YTFkLWEzNjMtNTM3MWY2NjUxZDJjNjM5MTk3OTI4Njc3Njc0MDEw
+"></div>
+      </body>
+    </html>
+  );
+}
